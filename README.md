@@ -1,4 +1,4 @@
 lintcode-python
 ===============
 
-lintcode solutions in python
+[lintcode](http://lintcode.com/en/daily/) solutions in python
