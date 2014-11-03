@@ -27,19 +27,22 @@ class Solution:
     @return : Find all unique triplets in the array which gives the sum of zero.
     """
     def threeSum(self, numbers):
-        numbers, result = sorted(numbers), []
-        for idx, num in enumerate(numbers):
-            low, high = idx + 1, len(numbers) - 1
-            while low < high:
-                sum = num + numbers[low] + numbers[high]
-                if sum == 0:
-                    sol = [num, numbers[low], numbers[high]]
-                    if sol not in result:
+        numbers.sort()
+        result = []
+        seen = set()
+        for index, elem in enumerate(numbers):
+            lo, hi = index+1, len(numbers)-1
+            while lo < hi:
+                res = elem + numbers[lo] + numbers[hi]
+                if res == 0:
+                    sol = [elem, numbers[lo], numbers[hi]]
+                    if tuple(sol) not in seen:
                         result.append(sol)
-                    low, high = low + 1, high - 1
-                elif sum > 0:
-                    high -= 1
-                else: 
-                    low += 1
+                        seen.add(tuple(sol))
+                    lo, hi = lo+1, hi-1
+                elif res > 0:
+                    hi -= 1
+                else:
+                    lo += 1
         return result
 ```
