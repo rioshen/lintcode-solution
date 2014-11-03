@@ -39,7 +39,8 @@ class Solution:
     def inorderTraversal(self, root):
         # write your code here
         result = []
-        if not root: return result
+        if not root:
+            return result
         stack, current = [], root
         while stack or current:
             if current: # traverse the left sub-tree
