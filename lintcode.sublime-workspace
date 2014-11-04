@@ -1,0 +1,1089 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"error",
+				"ValueError	class"
+			],
+			[
+				"Ve",
+				"Vector"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"_",
+				"_encode"
+			],
+			[
+				"group",
+				"groupby"
+			],
+			[
+				"ri",
+				"RigTForm"
+			],
+			[
+				"WOR",
+				"WORLDSKY_FRAME"
+			],
+			[
+				"WO",
+				"World-Sky"
+			],
+			[
+				"g_f",
+				"g_frameIndex"
+			],
+			[
+				"g_cu",
+				"g_currentPickedRbtNode"
+			],
+			[
+				"st",
+				"starwalker"
+			],
+			[
+				"pr",
+				"prev"
+			],
+			[
+				"in",
+				"inputlst"
+			],
+			[
+				"g_curr",
+				"g_currentPickedRbtNode"
+			],
+			[
+				"g_robo",
+				"g_robot2Node"
+			],
+			[
+				"g_ro",
+				"g_robot1Node"
+			],
+			[
+				"g_current",
+				"g_currentViewMode"
+			],
+			[
+				"g_view",
+				"g_viewIndex"
+			],
+			[
+				"g_sky",
+				"g_skyNode"
+			],
+			[
+				"node",
+				"nodeStack_"
+			],
+			[
+				"share",
+				"shared_ptr"
+			],
+			[
+				"idC",
+				"idCounter_"
+			],
+			[
+				"nu",
+				"numbers"
+			],
+			[
+				"four",
+				"fourSum"
+			],
+			[
+				"arr",
+				"ArrayList"
+			],
+			[
+				"par",
+				"partitionArray"
+			],
+			[
+				"isVali",
+				"isValidArcballState"
+			],
+			[
+				"vali",
+				"validArcballState"
+			],
+			[
+				"getArc",
+				"getArcballState"
+			],
+			[
+				"fram",
+				"frameState"
+			],
+			[
+				"g_obj",
+				"g_objectIndex"
+			],
+			[
+				"g_ob",
+				"g_objectIndex"
+			],
+			[
+				"isG",
+				"isEgoCubeState"
+			],
+			[
+				"arcball",
+				"arcballState"
+			],
+			[
+				"valid",
+				"validArcballState"
+			],
+			[
+				"g_arcball",
+				"g_arcballScale"
+			],
+			[
+				"g_win",
+				"g_windowWidth"
+			],
+			[
+				"Cv",
+				"Cvec3"
+			],
+			[
+				"Cve",
+				"Cvec3"
+			],
+			[
+				"g_h",
+				"g_windowHeight"
+			],
+			[
+				"fr",
+				"frameFlag"
+			],
+			[
+				"g_o",
+				"g_objectIndex"
+			],
+			[
+				"g_",
+				"g_objectRbt"
+			],
+			[
+				"g_ar",
+				"g_arcballRender"
+			],
+			[
+				"g_a",
+				"g_arcballRender"
+			],
+			[
+				"Ri",
+				"RigTForm"
+			],
+			[
+				"g_sca",
+				"g_arcballScale"
+			],
+			[
+				"g_vi",
+				"g_viewIndex"
+			],
+			[
+				"update",
+				"updatewrtFrame"
+			],
+			[
+				"g_arc",
+				"g_arcballRender"
+			],
+			[
+				"sph",
+				"sphereRbt"
+			],
+			[
+				"g_fra",
+				"g_frameIndex"
+			],
+			[
+				"Rig",
+				"RigTForm"
+			],
+			[
+				"getT",
+				"getTranslation"
+			],
+			[
+				"Cvec",
+				"Cvec4"
+			],
+			[
+				"maj",
+				"majorityNumber"
+			],
+			[
+				"re",
+				"reverseWords"
+			],
+			[
+				"p",
+				"p	print"
+			],
+			[
+				"fi",
+				"fizzbuzz"
+			],
+			[
+				"Arr",
+				"ArrayList"
+			],
+			[
+				"tr",
+				"translationX"
+			],
+			[
+				"ro",
+				"rotationY"
+			],
+			[
+				"g_nm",
+				"g_numCubes"
+			],
+			[
+				"g_num",
+				"g_numViews"
+			],
+			[
+				"tran",
+				"translationY"
+			],
+			[
+				"trans",
+				"translationX"
+			],
+			[
+				"trn",
+				"translationX"
+			],
+			[
+				"rota",
+				"rotationY"
+			],
+			[
+				"rotation",
+				"rotationX"
+			],
+			[
+				"trasnla",
+				"translationX"
+			],
+			[
+				"change",
+				"changeFrames"
+			],
+			[
+				"gcube",
+				"g_cube2"
+			],
+			[
+				"g_object",
+				"g_objectRbt"
+			],
+			[
+				"g_fram",
+				"g_frameIndex"
+			],
+			[
+				"M_",
+				"M_VIEWNUM"
+			],
+			[
+				"g_acti",
+				"g_activeObject"
+			],
+			[
+				"cur",
+				"curSS"
+			],
+			[
+				"normalM",
+				"normalMatrix"
+			],
+			[
+				"to",
+				"tostr	toString"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"l",
+				"lowerLeft"
+			],
+			[
+				"d",
+				"draw"
+			],
+			[
+				"e",
+				"extends"
+			],
+			[
+				"cla",
+				"class	class"
+			],
+			[
+				"Shap",
+				"Shapes"
+			],
+			[
+				"for",
+				"formatAbs"
+			],
+			[
+				"de",
+				"denom"
+			],
+			[
+				"R",
+				"Rational"
+			],
+			[
+				"o",
+				"object	object"
+			],
+			[
+				"ob",
+				"object	object"
+			],
+			[
+				"glCl",
+				"glClear"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"init",
+				"initGlutState"
+			],
+			[
+				"ele",
+				"element_buffer_data"
+			],
+			[
+				"ver",
+				"vertex_buffer"
+			],
+			[
+				"verte",
+				"vertex_buffer_data"
+			],
+			[
+				"vertex",
+				"vertex_buffer"
+			],
+			[
+				"glutDisplay",
+				"glutDisplayFunc"
+			],
+			[
+				"i",
+				"if	If Condition"
+			],
+			[
+				"be",
+				"beginY"
+			],
+			[
+				"S",
+				"Sumls"
+			],
+			[
+				"prob",
+				"problem"
+			],
+			[
+				"problems",
+				"problems"
+			],
+			[
+				"ca",
+				"capacity"
+			],
+			[
+				"replae",
+				"replaceSpaces"
+			],
+			[
+				"isPer",
+				"isPermutation2"
+			],
+			[
+				"cont",
+				"containsKey"
+			],
+			[
+				"con",
+				"containsKey"
+			],
+			[
+				"isU",
+				"isUnique3"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "2sum/2-sum.py",
+			"settings":
+			{
+				"buffer_size": 407,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 98.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Strapdown.js Markdown: Preview in a browser"
+			],
+			[
+				"browser",
+				"Strapdown.js Markdown: Preview in a browser"
+			],
+			[
+				"mark",
+				"Markmon launch"
+			],
+			[
+				"package control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package cotrol: ",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"pckage control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"project: save",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control:install",
+				"Package Control: Install Package"
+			],
+			[
+				"package cotrol: in",
+				"Package Control: Install Package"
+			],
+			[
+				"orgmode",
+				"Set Syntax: orgmode"
+			],
+			[
+				"pacakge control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Git: pu",
+				"Git: Push"
+			],
+			[
+				"package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package cont",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 489.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"a",
+			"a = 3 if 1 else 5",
+			"print('hello')",
+			"print 'hello'",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/edwardshen/Coding/lintcode-python",
+		"/Users/edwardshen/Coding/lintcode-python/2sum"
+	],
+	"file_history":
+	[
+		"/Users/edwardshen/Coding/lintcode-python/3-sum.md",
+		"/Users/edwardshen/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/edwardshen/Coding/lintcode-python/2-sum.py",
+		"/Users/edwardshen/Library/Application Support/Sublime Text 3/Packages/Pylinter/Pylinter.sublime-settings",
+		"/Users/edwardshen/Classes/nyu/14Fall/ICG/assignments/4.RobotsandPartPicking/asst4/rigtform.h",
+		"/Users/edwardshen/Classes/nyu/14Fall/ICG/assignments/4.RobotsandPartPicking/asst4/quat.h",
+		"/Users/edwardshen/Classes/nyu/14Fall/ICG/assignments/4.RobotsandPartPicking/asst4/cvec.h",
+		"/Users/edwardshen/Classes/nyu/14Fall/ICG/assignments/4.RobotsandPartPicking/asst4/drawer.h",
+		"/Users/edwardshen/Classes/nyu/14Fall/ICG/assignments/4.RobotsandPartPicking/asst4/geometrymaker.h",
+		"/Users/edwardshen/Classes/nyu/14Fall/ICG/assignments/4.RobotsandPartPicking/asst4/picker.h",
+		"/Users/edwardshen/Classes/nyu/14Fall/ICG/assignments/4.RobotsandPartPicking/asst4/picker.cpp",
+		"/Users/edwardshen/Classes/nyu/14Fall/ICG/assignments/4.RobotsandPartPicking/asst4/scenegraph.cpp",
+		"/Users/edwardshen/Classes/nyu/14Fall/ICG/assignments/4.RobotsandPartPicking/asst4/scenegraph.h",
+		"/Users/edwardshen/Dropbox/notes/fluent-python.md",
+		"/Users/edwardshen/Coding/cracking-code-interview-solutions/test.py",
+		"/Users/edwardshen/Coding/cracking-code-interview-solutions/chapter-1.md",
+		"/Users/edwardshen/Coding/cracking-code-interview-solutions/chapter1/question1.py",
+		"/Users/edwardshen/Library/Application Support/Sublime Text 3/Packages/User/#!:usr:bin:env:python",
+		"/Users/edwardshen/Coding/python/data-structure/datastructure.py",
+		"/Users/edwardshen/Coding/python/data-structure/mystack.py",
+		"/Users/edwardshen/Dropbox/notes/programming-interview-questions/array-pari-sum.md",
+		"/Users/edwardshen/Dropbox/notes/programming-interview-questions/level-order-traversal.md",
+		"/Users/edwardshen/Library/Application Support/MacDown/Styles/GitHub2.css",
+		"/Users/edwardshen/Library/Application Support/MacDown/Styles/GitHub.css",
+		"/Users/edwardshen/Coding/TEST/youtube.py",
+		"/Users/edwardshen/Coding/python/pypy-2.4.0-src/lib-python/2.7/heapq.py",
+		"/Users/edwardshen/Coding/python/pypy-2.4.0-src/lib-python/2.7/collections.py",
+		"/Users/edwardshen/Coding/python/pypy-2.4.0-src/pypy/module/itertools/interp_itertools.py",
+		"/Users/edwardshen/Classes/nyu/14Fall/ICG/CS175/Assignment4/headers/matrix4.h",
+		"/Users/edwardshen/Classes/nyu/14Fall/ICG/CS175/Assignment4/headers/geometrymaker.h",
+		"/Users/edwardshen/Classes/nyu/14Fall/ICG/CS175/Assignment4/picker.cpp",
+		"/Users/edwardshen/personal/nine-chapter/2nd/2.md",
+		"/Users/edwardshen/personal/nine-chapter/2nd/3nd_udp_server.py",
+		"/Users/edwardshen/Coding/TEST/test.py",
+		"/Users/edwardshen/Classes/nyu/14Fall/ICG/assignments/3.QuaternionsandArcball/asst3/shaders/basic-gl2.vshader",
+		"/Users/edwardshen/personal/nine-chapter/2nd/1.md",
+		"/Users/edwardshen/Coding/TEST/test.txt",
+		"/Users/edwardshen/Coding/TEST/countwords.py",
+		"/Users/edwardshen/Coding/TEST/read-odd-line.py",
+		"/Users/edwardshen/Coding/TEST/rosalind_bins-2.txt",
+		"/Users/edwardshen/Coding/TEST/result.txt",
+		"/Users/edwardshen/Coding/TEST/binary-search.py",
+		"/Users/edwardshen/Coding/lintcode-python/search-a-2d-matrix.md",
+		"/Users/edwardshen/Coding/lintcode-python/2-sum.md",
+		"/Users/edwardshen/Coding/TEST/homework1.py",
+		"/Users/edwardshen/Coding/TEST/Solution.java",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/3.QuaternionsandArcball/asst3/glsupport.h",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/3.QuaternionsandArcball/asst3/rigtform.h",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/3.QuaternionsandArcball/asst3/glsupport.cpp",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/3.QuaternionsandArcball/asst3/matrix4.h",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/3.QuaternionsandArcball/asst3/arcball.h",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/3.QuaternionsandArcball/asst3/asst3.cpp",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/3.QuaternionsandArcball/asst3/quat.h",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/3.QuaternionsandArcball/asst3/cvec.h",
+		"/Users/edwardshen/Coding/leetcode-solutions/docs/lists/remove-duplicates-from-sorted-list.rst",
+		"/Users/edwardshen/Coding/leetcode-solutions/docs/lists/remove-duplicates-from-sorted-list-ii.rst",
+		"/Users/edwardshen/Coding/leetcode-solutions/docs/lists/linked-list-cycle.rst",
+		"/Users/edwardshen/Coding/leetcode-solutions/docs/lists/linked-list-cycle-ii.rst",
+		"/Users/edwardshen/Coding/TEST/Solution.class",
+		"/Users/edwardshen/Coding/leetcode-solutions/docs/lists/add_two_numbers.rst",
+		"/Users/edwardshen/Coding/leetcode-solutions/docs/lists/basic.rst",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/2.HelloWorld3D/assignment2_xushen/test.cpp",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/2.HelloWorld3D/assignment2_xushen/asst2.cpp",
+		"/Users/edwardshen/Classes/14Fall/ICG/CS175/Assignment2/asst2.cpp",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/2.HelloWorld3D/asst2_xushen/README.md",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/1.HelloWorld2D/assignment1_xushen/README.md",
+		"/Users/edwardshen/Dropbox/prints/asst2/asst2.cpp",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/2.HelloWorld3D/assignment2_xushen/matrix4.h",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/2.HelloWorld3D/README.md",
+		"/Users/edwardshen/Dropbox/prints/asst2/matrix4.h",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/2.HelloWorld3D/asst2/matrix4.h",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/2.HelloWorld3D/asst2/asst2.cpp",
+		"/Users/edwardshen/Coding/leetcode-solutions/docs/conf.py",
+		"/Users/edwardshen/Classes/14Fall/ICG/CS175/Assignment2/matrix4.h",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/2.HelloWorld3D/asst2/shaders/basic-gl2.vshader",
+		"/Users/edwardshen/Classes/14Fall/asst2/asst2.cpp",
+		"/Users/edwardshen/Downloads/hw3d.old/matrix4.h",
+		"/Users/edwardshen/personal/nine-chapter/note.org",
+		"/Users/edwardshen/Dropbox/notes/leetcode/dynamic-programming-4.md",
+		"/Users/edwardshen/Dropbox/notes/leetcode/dynamic-programming-3.md",
+		"/Users/edwardshen/Dropbox/notes/leetcode/dynamic-programming-1.md",
+		"/Users/edwardshen/Desktop/Test.cpp",
+		"/Users/edwardshen/Coding/TEST/shapes.scala",
+		"/Users/edwardshen/Coding/TEST/upper.scala",
+		"/Users/edwardshen/Coding/TEST/Test.java",
+		"/Users/edwardshen/Coding/TEST/MyModule.scala",
+		"/Users/edwardshen/Classes/14Fall/ICG/code-from-book/2.HelloWorld3D/hw3d/asst2.cpp",
+		"/Users/edwardshen/Coding/TEST/hello.scala",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/1.HelloWorld2D/test/test.cpp",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/1.HelloWorld2D/test/Makefile",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/1.HelloWorld2D/asst1/test.cpp",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/1.HelloWorld2D/asst1/asst1.cpp",
+		"/Users/edwardshen/Coding/TEST/countchars.scala",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/1.HelloWorld2D/assignment1_xushen/shaders/asst1-gl2.vshader",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/1.HelloWorld2D/assignment1_xushen/shaders/asst1-gl2.fshader",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/1.HelloWorld2D/assignment1_xushen/README.txt",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/1.HelloWorld2D/asst1/shaders/asst1-gl2.vshader",
+		"/Users/edwardshen/Classes/14Fall/ICG/assignments/1.HelloWorld2D/asst1/shaders/asst1-gl2.fshader",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/basics/dfs.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/combination-sum-ii.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/combination-sum.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/best-time-to-buy-and-sell-stock.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/best-time-to-buy-and-sell-stock-ii.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/jump-game.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/longest-substring-without-repeating-characters.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/jump-game-ii.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/CombinationSum.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/BestTimetoBuyStocks.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/Solution.java",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/max-points-on-a-line.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/substring-with-concatenation-of-all-words.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/merge-intervals.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/ConstructBinaryTreefromInorderandPostorderTraversal.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/ConstructBinaryTreefromPreorderandInorderTraversal.java",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/ConstructBinaryTreefromInorderandPostorderTraversal.java",
+		"/Users/edwardshen/Downloads/asst1 (1)/asst1.cpp",
+		"/Users/edwardshen/Classes/14Fall/ICG/code-from-book/1.HelloWorld2D/asst1.cpp",
+		"/Users/edwardshen/Coding/leetcode-solutions/python/sort_list.py",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/spiral-matrix-ii.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/spiral-matrix.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/    at Solution.spiralOrder(Solution.java",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/BestTimetoBuyStocksII.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/zigzag-conversion.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/pascals-triangle.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/pascals-triangle-ii.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/PathSum.java",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/palindrome-number.md",
+		"/Users/edwardshen/Coding/leetcode-solutions/java/Permutations.md"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"g_currentPickedRbtNode",
+			"code",
+			"Mono",
+			"chain()",
+			"index",
+			"is None",
+			"for",
+			"arcball",
+			"arcballrotation",
+			"g_arcballScale",
+			"g_arcballScreenRadius",
+			"g_numObjects",
+			"enablePickingMode",
+			"disablePickingMode",
+			"g_enablePicking",
+			"g_arcballScreenRadius",
+			"rotation",
+			"useArcball",
+			"WORLD_SKY",
+			"worldSkyManipulation",
+			"getEyeRBT",
+			"setWrtFrame",
+			"g_aFrame",
+			"g_picking",
+			"g_currentView",
+			"g_skyViewChoice",
+			"g_frustFovY",
+			"g_windowHeight",
+			"getEyeRBT",
+			"isValidArcballState",
+			"getScreenToEyeScale",
+			"updatewrtFrame",
+			"getScreenToEyeScale",
+			"mouse(",
+			"mouse",
+			"motion",
+			"NUM_SHAPES",
+			"g_cube",
+			"g_frameIndex",
+			"drawStuff(",
+			"reset()",
+			"drawStuff(",
+			"initScene()",
+			"inv(",
+			"WORLDSKY_FRAME",
+			"inv(",
+			"initScene()",
+			"()",
+			"drawStuff(",
+			"g_groundNode",
+			"g_groundNoe",
+			"g_cube",
+			"initScene",
+			"inv(",
+			"addToMap",
+			"NULL",
+			"g_currentViewMode",
+			"g_currentPickedRbtNode",
+			"getPathAccumRbt",
+			"getAccumulatedRbt",
+			"g_currentPickedRbtNode",
+			"normalMatrix",
+			"sendModelViewNormalMatrix",
+			"getAccumulatedRbt",
+			"getPathAccumRbt",
+			"sendModelViewNormalMatrix",
+			"struct ShaderState",
+			"getPathAccumRbt",
+			"g_currentView",
+			"g_currentView ",
+			"g_currentView",
+			"M",
+			"g_currentView",
+			"ShaderState",
+			"linFa",
+			"NULL",
+			"g_view",
+			"enable_shared_from_this",
+			"tr1",
+			"Assignment 3",
+			"initS",
+			"initScene",
+			"wrtF",
+			"drawStuff(",
+			"g_currentView",
+			"g_robotPicking",
+			"g_viewIndex",
+			"  const RigTForm eyeRbt = getPathAccumRbt(g_world, g_viewIndex);\n",
+			"g_viewIndex",
+			"g_currentView",
+			"Frame",
+			"g_skyNode",
+			"shared_from_this",
+			"display(",
+			"g_picking",
+			"g_world",
+			"motion(",
+			"𝛆",
+			"β",
+			"g_arcballScreenRadius",
+			"g_arcballRadius",
+			"  const bool validArcballState = isValidArcballState();\n",
+			"g_auxiliaryFrameIndex",
+			"getArcballState()",
+			"validFrameState",
+			"getFrameState",
+			"getObjectState()",
+			"g_frame",
+			"g_arcballScreenRadius",
+			"g_objectRbt",
+			"drawStuff",
+			"getScreenToEyeScale",
+			"g_arcballScale",
+			"getScreenToEyeScale",
+			"normalize",
+			"getScreenToEyeScale",
+			"WARNING",
+			"WARNING:",
+			"g_arcballScale",
+			"g_frame",
+			"arcballState",
+			"g_arcballScreenRadius",
+			"eyeRbt",
+			"bool ",
+			"useArc",
+			"g_activeShader",
+			"drawStuff",
+			"g_objectRbt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"WORLDSKY_FRAME",
+			"isValidFrameState",
+			"updatewrtFrame",
+			"g_auxiliaryFrame",
+			"g_enablePicking",
+			"g_currentViewNode",
+			"g_frameIndex",
+			"g_pickingRobot",
+			"delta",
+			"beta",
+			"g_arcballScreenRadius",
+			"g_frameIndex",
+			"isValidArcballState()",
+			"isValidFrameState()",
+			"isValidFrameState",
+			"isValidObjectState()",
+			"g_auxiliaryFrame",
+			"g_arcballRadius",
+			"cycleFrames",
+			"cycleObjects",
+			"cycleViews",
+			"g_frameIndex",
+			"g_viewIndex",
+			"g_objectIndex",
+			"g_viewIndex",
+			"S",
+			"A[",
+			"cnt",
+			"factor",
+			"high",
+			"curr",
+			"low",
+			"number",
+			"submission-",
+			"submission-label",
+			"leetcode",
+			"stack.pop(",
+			"stack.push("
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "2sum/2-sum.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "python",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "lintcode.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"solution.java",
+				"java/Solution.java"
+			],
+			[
+				"pascal",
+				"java/pascals-triangle.md"
+			],
+			[
+				"combination",
+				"java/Combinations.md"
+			],
+			[
+				"nquee",
+				"java/NQueens.md"
+			],
+			[
+				"inorderand",
+				"java/ConstructBinaryTreefromInorderandPostorderTraversal.java"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"",
+				"README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Coding/lintcode-python/lintcode.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
