@@ -17,3 +17,17 @@ class Solution:
             else:
                 hi = mid - 1
         return result
+        
+    def binarySearchRecur(self, nums, target):
+        return self.bsearch(nums, target, 0, len(nums)-1)
+        
+    def bsearch(nums, target, lo, hi):
+        if hi < lo:
+            return -1
+        mid = lo+hi // 2
+        if nums[mid] < target:
+            return self.bsearch(nums, target, mid+1, hi)
+        elif nums[mid] > target:
+            return self.bsearch(nums, target, lo, mid-1)
+        else:
+            return mid
