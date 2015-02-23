@@ -55,3 +55,6 @@ target/
 
 *.iml
 .idea
+
+# Java Class
+*.class
