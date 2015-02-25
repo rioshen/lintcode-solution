@@ -17,7 +17,7 @@ public class Median {
             return nums[len / 2 - 1];
         }
     }
-    
+
     public int median(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;
@@ -30,7 +30,7 @@ public class Median {
             }
         }
     }
-    
+
     private int selectMiddle(int[] arr, int k) {
         int lo = 0, hi = arr.length - 1;
         while (lo < hi) {
@@ -46,7 +46,7 @@ public class Median {
                     l++;
                 }
             }
-            
+
             if (arr[l] > middle) {
                 l--;
             }
@@ -56,7 +56,7 @@ public class Median {
                 lo = l + 1;
             }
         }
-        
+
         return arr[k];
     }
 }
