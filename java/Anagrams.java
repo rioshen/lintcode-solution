@@ -1,3 +1,8 @@
+import java.util.Map;
+import java.util.HashMap;
+import java.util.List;
+import java.util.ArrayList;
+
 public class Anagrams {
     /**
      * @param strs: A list of strings
@@ -8,8 +13,8 @@ public class Anagrams {
         if (strs == null || strs.length == 0) {
             return res;
         }
-    
-        HashMap<String, ArrayList<String>> map = 
+
+        HashMap<String, ArrayList<String>> map =
             new HashMap<String, ArrayList<String>>();
         for (String str : strs) {
             String key = sort(str);
@@ -18,13 +23,13 @@ public class Anagrams {
             }
             map.get(key).add(str);
         }
-        
+
         for (String key : map.keySet()) {
             if (map.get(key).size() > 1) {
                 res.addAll(map.get(key));
             }
         }
-        
+
         return res;
     }
 
