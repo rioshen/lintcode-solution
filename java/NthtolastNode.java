@@ -24,4 +24,21 @@ public class NthtoLastNode {
 
         return slow;
     }
+
+    ListNode nthToLast(ListNode head, int n) {
+        if (head == null) return head;
+
+        ListNode curr = head;
+        for (int i = 1; i < n; i++) {
+            curr = curr.next;
+        }
+
+        ListNode prev = head;
+        while (curr.next != null) {
+            curr = curr.next;
+            prev = prev.next;
+        }
+
+        return prev;
+    }
 }
