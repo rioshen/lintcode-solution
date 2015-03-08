@@ -1,6 +1,6 @@
 public class MergeSortedArrayII {
     /**
-     * @param A: sorted integer array A which has m elements, 
+     * @param A: sorted integer array A which has m elements,
      *           but size of A is m+n
      * @param B: sorted integer array B which has n elements
      * @return: void
@@ -9,7 +9,7 @@ public class MergeSortedArrayII {
         if (A == null || B == null) {
             return;
         }
-        
+
         int i = m - 1, j = n - 1;
         int k = m + n - 1;
         while (i >= 0 && j >= 0) {
