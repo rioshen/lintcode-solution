@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Combinations {
     /**
      * @param n: Given the range of numbers
@@ -8,7 +10,7 @@ public class Combinations {
 		if (n < 0) {
 		    throw new IllegalArgumentException();
 		}
-    
+
         List<List<Integer>> result = new ArrayList<List<Integer>>();
         List<Integer> solution = new ArrayList<Integer>();
         combination(n, k, 1, solution, result);
@@ -16,9 +18,9 @@ public class Combinations {
     }
 
     private void combination(int n,
-                             int k, 
-                             int pos, 
-                             List<Integer> sol, 
+                             int k,
+                             int pos,
+                             List<Integer> sol,
                              List<List<Integer>> res)
     {
         if (sol.size() == k) {
@@ -32,5 +34,4 @@ public class Combinations {
             sol.remove(sol.size() - 1);
         }
     }
-    
 }

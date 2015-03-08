@@ -29,6 +29,8 @@ public class WordSearch {
         if (i < 0 || i >= board.length || j < 0 || j >= board[0].length || word.charAt(pos) != board[i][j]) {
             return false;
         }
+
+        // find one
         board[i][j] = '#';
         boolean find = find(board, word, pos + 1, i + 1, j)
                         || find(board, word, pos + 1, i, j + 1)
