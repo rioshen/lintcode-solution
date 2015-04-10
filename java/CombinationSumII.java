@@ -5,18 +5,18 @@ public class CombinationSumII {
      * @return: All the combinations that sum to target
      */
     public List<List<Integer>> combinationSum2(int[] num, int target) {
-        List<List<Integer>> result = new ArrayList<List<Integer>>();
+        List<List<Integer>> result = new ArrayList<>();
         if (num == null || num.length == 0) {
             return result;
         }
-        
+
         Arrays.sort(num);
         List<Integer> path = new ArrayList<Integer>();
         helper(num, target, 0, path, result);
-        
+
         return result;
     }
-    
+
     private void helper(int[] nums, int target, int pos,
         List<Integer> path, List<List<Integer>> res)
     {
@@ -24,7 +24,7 @@ public class CombinationSumII {
             res.add(new ArrayList<Integer>(path));
             return;
         }
-        
+
         for (int i = pos; i < nums.length; i++) {
             int num = nums[i];
             if (target - num < 0 || (i > pos && nums[i] == nums[i - 1])) {
